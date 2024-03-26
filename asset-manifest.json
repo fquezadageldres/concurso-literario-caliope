@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/fquezadageldres/concurso-literario-caliope/static/css/main.a0abd078.css",
+    "main.js": "/fquezadageldres/concurso-literario-caliope/static/js/main.5d0e8ea3.js",
+    "static/js/453.026468b8.chunk.js": "/fquezadageldres/concurso-literario-caliope/static/js/453.026468b8.chunk.js",
+    "index.html": "/fquezadageldres/concurso-literario-caliope/index.html",
+    "main.a0abd078.css.map": "/fquezadageldres/concurso-literario-caliope/static/css/main.a0abd078.css.map",
+    "main.5d0e8ea3.js.map": "/fquezadageldres/concurso-literario-caliope/static/js/main.5d0e8ea3.js.map",
+    "453.026468b8.chunk.js.map": "/fquezadageldres/concurso-literario-caliope/static/js/453.026468b8.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.a0abd078.css",
+    "static/js/main.5d0e8ea3.js"
+  ]
+}
