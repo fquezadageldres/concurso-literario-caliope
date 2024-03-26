@@ -21,7 +21,8 @@ module.exports = {
 
     },
     boxShadow: {
-      'medium': '0 2px 5px 0 rgb(0,0,0,0.16), 0 2px 5px 0 rgb(0,0,0,0.12)'
+      'medium': '0 2px 5px 0 rgb(0,0,0,0.16), 0 2px 5px 0 rgb(0,0,0,0.12)',
+      'bottom': '0px 10px 12px -15px rgba(0,0,0,0.75), 0px 10px 12px -15px rgba(0,0,0,0.75)'
     }
   },
   plugins: [],
