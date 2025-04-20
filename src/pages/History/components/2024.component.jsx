@@ -5,6 +5,8 @@ import { GoChecklist, GoImage, GoInfo } from "react-icons/go";
 import { IoMdCheckmark } from "react-icons/io";
 import { useState } from 'react';
 
+import Img0 from '../img/2024/0.jpeg';
+
 export const Version2024 = () => {
 
     const [open, setOpen] = useState(false);
@@ -89,7 +91,7 @@ export const Version2024 = () => {
                     <Modal.Title>Fotos 9º Concurso Regional de Literatura Caliope</Modal.Title>
                 </Modal.Header>
                 <Modal.Body className='flex flex-col overflow-scroll gap-5 max-h-[600px] md:max-h-[800px]'>
-                        <img src="./2024/0.jpeg" alt="" />
+                        <img src={Img0} alt="" />
                 </Modal.Body>
             </Modal>
         </div>

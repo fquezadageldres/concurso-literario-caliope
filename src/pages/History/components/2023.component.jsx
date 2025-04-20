@@ -7,6 +7,9 @@ import { PiMedalLight } from "react-icons/pi";
 import { useState } from 'react';
 
 import Img0 from '../img/2023/0.png'
+import Img1 from '../img/2023/1.jpeg'
+import Img2 from '../img/2023/2.jpeg'
+import Img3 from '../img/2023/3.jpeg'
 
 export const Version2023 = () => {
 
@@ -453,9 +456,9 @@ export const Version2023 = () => {
                 </Modal.Header>
                 <Modal.Body className='flex flex-col overflow-scroll gap-5 max-h-[600px] md:max-h-[800px]'>
                         <img src={Img0} alt="" />
-                        <img src="./2023/2.jpeg" alt="" />
-                        <img src="./2023/3.jpeg" alt="" />
-                        <img src="./2023/0.png" alt="" />
+                        <img src={Img1} alt="" />
+                        <img src={Img2} alt="" />
+                        <img src={Img3} alt="" />
                 </Modal.Body>
             </Modal>
         </div>
