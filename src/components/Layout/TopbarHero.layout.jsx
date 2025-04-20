@@ -17,7 +17,7 @@ export const TopbarHero = () => {
             </div>
             <div className={"px-5 sm:px-14 w-full h-[90px] md:h-[60px] items-center inline-flex justify-end  transition-all duration-200" + (isBelow50px ? ' bg-[white] text-lText shadow-[#ddd] shadow-bottom' : ' transparant text-[white]')}>
                 <ul className="flex flex-col md:flex-row text-right text-left gap-x-6 text-[14px]">
-                    <Link to={"/home"} className={(isBelow50px ? 'font-semibold border-b-2 text-lText hover:text-lText border-lLightGreen pb-1 px-2' : 'font-semibold text-[white] hover:text-[white] border-b border-lLightGreen pb-1 px-2') + (' cursor-pointer px-2 hover:border-b hover:border-lText py-1')}>9º VERSIÓN</Link>
+                    <Link to={"/home"} className={(isBelow50px ? 'font-semibold border-b-2 text-lText hover:text-lText border-lLightGreen pb-1 px-2' : 'font-semibold text-[white] hover:text-[white] border-b border-lLightGreen pb-1 px-2') + (' cursor-pointer px-2 hover:border-b hover:border-lText py-1')}>10º VERSIÓN</Link>
                     <Link to={"/history"} className={(isBelow50px ? 'text-lText hover:text-lText pb-1 px-2' : 'text-[white] hover:text-[white] pb-1 px-2') + (' cursor-pointer px-2 hover:decoration-none hover:border-b hover:border-lText py-1')}>AÑOS ANTERIORES</Link>
                 </ul>
             </div>

@@ -30,7 +30,7 @@ export const Version2025 = () => {
                     />
                 } eventKey={1}>
                     <div className='mx-12'>
-                        <p>Nombre: <span className='text-[#999] ml-2'>9º Concurso Regional de Literatura Caliope</span></p>
+                        <p>Nombre: <span className='text-[#999] ml-2'>10º Concurso Regional de Literatura Caliope</span></p>
                         <p>Tema: <span className='text-[#999] ml-2'>Unidad y Diversidad</span></p>
                         <p>Formato literario: <span className='text-[#999] ml-2'>Cuentos y Poesías</span></p>
                         <p>Fecha de entrega: <span className='text-[#999] ml-2'>9 de marzo 2025 - 1 de junio 2025</span></p>

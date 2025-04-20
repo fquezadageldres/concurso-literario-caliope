@@ -29,7 +29,7 @@ export const Home = () => {
         <LayoutHero>
             <div style={{backgroundImage: 'url(./hero.jpg)', backgroundBlendMode: 'overlay', backgroundColor: '#2f302b', }} className="w-full h-screen relative bg-cover flex flex-col items-center justify-center">
                 <h2 id="hero" className="text-[7em] sm:text-[11em] lg:text-[14em] text-[white] dancing-script-semibold"><b>Caliope</b></h2>
-                <h1 className="z-10 py-7  leading-10 sm:py-14 lg:pt-24 lg:pb-18 text-[white] text-center poppins-light text-[25px] sm:text-[40px] lg:text-[45px]">9º Concurso Regional de Literatura</h1>
+                <h1 className="z-10 py-7  leading-10 sm:py-14 lg:pt-24 lg:pb-18 text-[white] text-center poppins-light text-[25px] sm:text-[40px] lg:text-[45px]">10º Concurso Regional de Literatura</h1>
                 <div className="text-[12px] sm:text-[15px] lg:text-[16px] mt-[-30px] py-2 rounded-xl">
                     <p className="px-2 w-[360px] sm:w-[500px] lg:w-[550px] text-center text-[white] poppins-light">La <span className="underline text-[#9ee382] bad-script-regular text-[14px] sm:text-[16px] lg:text-[18px]">novena edición del concurso de literatura Calíope</span> está a punto de comenzar, y queremos que formes parte de esta experiencia única.</p>
                     <p className="px-2 w-[360px] sm:w-[500px] lg:w-[550px] text-center mt-3 text-[white] poppins-light">Este año, bajo el tema de <span className="underline text-[#9ee382] bad-script-regular text-[14px] sm:text-[16px] lg:text-[18px]">"Unidad y Diversidad",</span> queremos celebrar la riqueza de perspectivas, experiencias y voces que enriquecen nuestra sociedad.</p>
