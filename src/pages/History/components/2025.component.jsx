@@ -30,7 +30,7 @@ export const Version2025 = () => {
                     />
                 } eventKey={1}>
                     <div className='mx-12'>
-                        <p>Nombre: <span className='text-[#999] ml-2'>10º Concurso Regional de Literatura Caliope</span></p>
+                        <p>Nombre: <span className='text-[#999] ml-2'>10º Concurso Regional de Literatura Calíope</span></p>
                         <p>Tema: <span className='text-[#999] ml-2'>Unidad y Diversidad</span></p>
                         <p>Formato literario: <span className='text-[#999] ml-2'>Cuentos y Poesías</span></p>
                         <p>Fecha de entrega: <span className='text-[#999] ml-2'>9 de marzo 2025 - 1 de junio 2025</span></p>
@@ -88,7 +88,7 @@ export const Version2025 = () => {
             </div>
             <Modal overflow={false} size={"lg"} backdrop={true} keyboard={false} open={open} onClose={handleClose}>
                 <Modal.Header className='mb-3'>
-                    <Modal.Title>Fotos 9º Concurso Regional de Literatura Caliope</Modal.Title>
+                    <Modal.Title>Fotos 9º Concurso Regional de Literatura Calíope</Modal.Title>
                 </Modal.Header>
                 <Modal.Body className='flex flex-col overflow-scroll gap-5 max-h-[600px] md:max-h-[800px]'>
                         <img src={Img0} alt="" />

@@ -34,7 +34,7 @@ export const Version2023 = () => {
                     />
                 } eventKey={1}>
                     <div className='mx-12'>
-                        <p>Nombre: <span className='text-[#999] ml-2'>8º Concurso Regional de Literatura Caliope</span></p>
+                        <p>Nombre: <span className='text-[#999] ml-2'>8º Concurso Regional de Literatura Calíope</span></p>
                         <p>Tema: <span className='text-[#999] ml-2'>Historia y/o Mitología Nacional</span></p>
                         <p>Formato literario: <span className='text-[#999] ml-2'>Cuentos, Poesías y Ensayos</span></p>
                         <p>Fecha de entrega: <span className='text-[#999] ml-2'>27 de marzo 2023 - 16 de junio 2023</span></p>
@@ -452,7 +452,7 @@ export const Version2023 = () => {
             </div>
             <Modal overflow={false} size={"lg"} backdrop={true} keyboard={false} open={open} onClose={handleClose}>
                 <Modal.Header className='mb-3'>
-                    <Modal.Title>Fotos 8º Concurso Regional de Literatura Caliope</Modal.Title>
+                    <Modal.Title>Fotos 8º Concurso Regional de Literatura Calíope</Modal.Title>
                 </Modal.Header>
                 <Modal.Body className='flex flex-col overflow-scroll gap-5 max-h-[600px] md:max-h-[800px]'>
                         <img src={Img0} alt="" />
