@@ -1,15 +1,26 @@
 {
   "files": {
-    "main.css": "/fquezadageldres/concurso-literario-caliope/static/css/main.a0abd078.css",
-    "main.js": "/fquezadageldres/concurso-literario-caliope/static/js/main.5d0e8ea3.js",
-    "static/js/453.026468b8.chunk.js": "/fquezadageldres/concurso-literario-caliope/static/js/453.026468b8.chunk.js",
-    "index.html": "/fquezadageldres/concurso-literario-caliope/index.html",
-    "main.a0abd078.css.map": "/fquezadageldres/concurso-literario-caliope/static/css/main.a0abd078.css.map",
-    "main.5d0e8ea3.js.map": "/fquezadageldres/concurso-literario-caliope/static/js/main.5d0e8ea3.js.map",
-    "453.026468b8.chunk.js.map": "/fquezadageldres/concurso-literario-caliope/static/js/453.026468b8.chunk.js.map"
+    "main.css": "./static/css/main.2249e6ae.css",
+    "main.js": "./static/js/main.1b299d4f.js",
+    "static/js/453.026468b8.chunk.js": "./static/js/453.026468b8.chunk.js",
+    "static/media/hero.png": "./static/media/hero.cd446cd6c6a0b7d5580b.png",
+    "static/media/0.png": "./static/media/0.c0a013e39dc48e8ad56f.png",
+    "static/media/history.jpg": "./static/media/history.ee81718392f85db0dba5.jpg",
+    "static/media/3.jpeg": "./static/media/3.f416a3acbe28dee124f3.jpeg",
+    "static/media/0.jpeg": "./static/media/0.30fd954660ea5a586eb2.jpeg",
+    "static/media/1.jpeg": "./static/media/1.f8d4dc846e5b5befa2ef.jpeg",
+    "static/media/2.jpeg": "./static/media/2.f36be338891e8e5a6362.jpeg",
+    "static/media/4.jpeg": "./static/media/4.c2000c58e5de68bf306c.jpeg",
+    "static/media/logo-puerto-montt.png": "./static/media/logo-puerto-montt.79ddbe3b2375d4f808ee.png",
+    "static/media/reading.svg": "./static/media/reading.0925c746c0c4441096be349a5e9c2fa9.svg",
+    "static/media/logo-puerto-montt_gray.svg": "./static/media/logo-puerto-montt_gray.6503f21e4d5175b6d7c8a93f29b970e6.svg",
+    "index.html": "./index.html",
+    "main.2249e6ae.css.map": "./static/css/main.2249e6ae.css.map",
+    "main.1b299d4f.js.map": "./static/js/main.1b299d4f.js.map",
+    "453.026468b8.chunk.js.map": "./static/js/453.026468b8.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.a0abd078.css",
-    "static/js/main.5d0e8ea3.js"
+    "static/css/main.2249e6ae.css",
+    "static/js/main.1b299d4f.js"
   ]
 }
